@@ -304,7 +304,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ***
 
-**Perfect bhai! Tumhare details ke saath professional README ready hai. GitHub pe upload kar do — judges ko bilkul impress karega! 🚀**
+
 
 [1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/91470907/f7e9cab2-6b06-4466-b23e-fcce300ca050/selected_image_986646826050961590.jpg)
 [2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/91470907/5dec5fce-945d-4552-aab5-973ae599f0bf/selected_image_8838178920630946670.jpg)
