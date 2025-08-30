@@ -247,6 +247,25 @@ FUTURE_ML_02/
 
 ### **Screenshots & Demos**
 All testing results and dashboard demonstrations are available in the `/screenshots/` directory with organized proof-of-concept evidence.
+## Screenshots
+
+### Streamlit Dashboard
+![Dashboard Home](screenshots/streamlit_dashboard/home_host_page.jpg)
+![Churn Distribution](screenshots/streamlit_dashboard/churn_distribution.jpg)
+![Feature Importance](screenshots/streamlit_dashboard/feature_importance.jpg)
+![Monthly Charges Comparison](screenshots/streamlit_dashboard/monthly_charges_comparison.jpg)
+![Tenure Comparison](screenshots/streamlit_dashboard/tenure_comparison.jpg)
+
+### Static Dashboard
+![Churn Distribution Static](screenshots/static_dashboard/churn_distribution.jpg)
+![Monthly Charges vs Churn](screenshots/static_dashboard/monthlycharges_vs_churn.jpg)
+![Tenure vs Churn](screenshots/static_dashboard/tenure_vs_churn.jpg)
+![Feature Importance Static](screenshots/static_dashboard/xgb_feature_importance.jpg)
+
+### API Predictions Demo
+![Prediction 0](screenshots/api_predictions/postman_prediction_0.jpg)
+![Prediction 1](screenshots/api_predictions/postman_prediction_1.jpg)
+![API Live Logs](screenshots/api_predictions/api_live_logs.jpg)
 
 ***
 
@@ -303,9 +322,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Built with ❤️ for enterprise-grade churn prediction and customer analytics.*
 
 ***
-
-
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/91470907/f7e9cab2-6b06-4466-b23e-fcce300ca050/selected_image_986646826050961590.jpg)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/91470907/5dec5fce-945d-4552-aab5-973ae599f0bf/selected_image_8838178920630946670.jpg)
-[3](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/91470907/9f649cf4-35cb-4425-a481-936ae2dc636e/selected_image_5382045653849629894.jpg)
