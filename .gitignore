@@ -1,0 +1,22 @@
+# Ignore virtual environment
+venv/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+
+# Ignore system/IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Ignore environment & logs
+.env
+logs/
+
+# Ignore big folders (if generated later)
+models/
+data/processed/
+data/interim/

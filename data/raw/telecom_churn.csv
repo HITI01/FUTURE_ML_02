@@ -1,0 +1,21 @@
+gender,Partner,Contract,tenure,MonthlyCharges,TotalCharges,Churn
+Male,Yes,Month-to-month,1,29.85,29.85,1
+Female,No,One year,34,56.95,1889.5,0
+Male,Yes,Two year,2,53.85,108.15,1
+Female,No,Month-to-month,45,42.30,1840.75,0
+Male,Yes,One year,2,70.70,151.65,1
+Female,No,Two year,8,99.65,820.5,0
+Male,Yes,Month-to-month,15,82.50,1540.00,1
+Female,No,One year,24,91.10,206.00,0
+Male,Yes,Two year,12,12.90,351.00,1
+Female,No,Month-to-month,30,45.00,1100.00,0
+Male,Yes,One year,5,48.75,243.75,1
+Female,No,Two year,22,60.80,1337.60,0
+Male,Yes,Month-to-month,13,32.20,418.60,1
+Female,No,One year,7,27.40,191.80,0
+Male,Yes,Two year,16,50.25,804.00,1
+Female,No,Month-to-month,28,66.10,1850.80,0
+Male,Yes,One year,18,77.30,1391.40,1
+Female,No,Two year,25,83.20,2080.00,0
+Male,Yes,Month-to-month,8,14.20,113.60,1
+Female,No,One year,19,38.60,732.40,0
