@@ -219,8 +219,6 @@ def test_health_endpoint():
 ---
 ## 📸 Project Screenshots
 
-## 📸 Screenshots  
-
 ### 🔹 API Predictions
 - ![API Live Logs](./screenshots/api_predictions/api_live_logs.jpg.png)  
 - ![Postman Prediction 0](./screenshots/api_predictions/postman_prediction_0.jpg)  
