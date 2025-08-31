@@ -1,4 +1,4 @@
-# 🚀 Telecom Customer Churn Prediction — FUTURE_ML_02
+## 🚀 Telecom Customer Churn Prediction — FUTURE_ML_02
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  
 [![Framework](https://img.shields.io/badge/Framework-Flask%20%7C%20Streamlit-green)](https://flask.palletsprojects.com/)  
