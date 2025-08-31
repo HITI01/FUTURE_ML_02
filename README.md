@@ -41,10 +41,68 @@ As required by **Future Interns**:
 - 🔗 [Task 3 – AI Chatbot for Customer Support](ADD_TASK3_LINK) *(in progress)*  
 
 ---
+ 📂Project structure 
 
-## 📁 Project Structure
-
-FUTURE_ML_02/ │ ├── data/ │   └── raw/ │       └── telecom_churn.csv │ ├── models/ │   └── xgboost_model.pkl │ ├── notebooks/ │   ├── documentation.ipynb │   └── experimentation.ipynb │ ├── reports/ │   ├── figures/ │   └── final_report.md │ ├── screenshots/ │   ├── api_predictions/ │   ├── static_dashboard/ │   └── streamlit_dashboard/ │ ├── src/ │   ├── api/ │   │   └── main.py │   ├── churn_predictor/ │   │   ├── data_preprocessing.py │   │   ├── feature_engineering.py │   │   ├── model.py │   │   ├── evaluation.py │   │   ├── explainability.py │   │   ├── dashboard.py │   │   └── streamlit_dashboard.py │   └── tests/ │       ├── test_model_load.py │       └── test_api.py │ ├── requirements.txt ├── setup.py ├── .gitignore └── README.md
+FUTURE_ML_02/
+├── 📂 .vscode/
+│   └── ⚙️ settings.json
+│
+├── 📂 data/
+│   └── 📂 raw/
+│       └── 📄 telecom_churn.csv
+│
+├── 📂 model/
+│   └── 🤖 xgboost_model.pkl
+│
+├── 📂 notebook/
+│   ├── 📓 documentation.ipynb
+│   └── 📓 experimentation.ipynb
+│
+├── 📂 reports/
+│   ├── 📊 figures/
+│   └── 📝 final_report.md
+│
+├── 📂 src/
+│   ├── 📄 __init__.py
+│   ├── 📂 api/
+│   │   ├── 📄 __init__.py
+│   │   └── 🌐 main.py
+│   │
+│   ├── 📂 churn_predictor/
+│   │   ├── 📂 components/
+│   │   │   ├── 📄 data_ingestion.py
+│   │   │   ├── 📄 data_transformation.py
+│   │   │   ├── 📄 data_validation.py
+│   │   │   ├── 📄 model_evaluator.py
+│   │   │   └── 📄 model_trainer.py
+│   │   │
+│   │   ├── 📂 config/
+│   │   │   └── ⚙️ configuration.py
+│   │   │
+│   │   ├── 📂 pipeline/
+│   │   │   ├── 📄 prediction_pipeline.py
+│   │   │   └── 📄 training_pipeline.py
+│   │   │
+│   │   ├── 📂 utils/
+│   │   │   └── 🛠️ constant.py
+│   │   │
+│   │   ├── 📄 common.py
+│   │   ├── 📊 dashboard.py
+│   │   └── 📊 streamlit_dashboard.py
+│   │
+│   ├── 📄 data_preprocessing.py
+│   ├── 📄 evaluation.py
+│   ├── 📄 explainability.py
+│   ├── 📄 feature_engineering.py
+│   └── 📄 model.py
+│
+├── 📂 tests/
+│   └── 🧪 conftest.py
+│
+├── ⚙️ .gitignore
+├── 📝 KICKIN.MD
+├── 📦 requirements.txt
+└── ⚙️ setup.py
 
 ---
 
