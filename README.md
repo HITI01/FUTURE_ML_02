@@ -254,7 +254,28 @@ def test_health_endpoint():
   <img src="screenshots/static_dashboard/tenure_vs_churn.jpg" alt="Tenure vs Churn" width="45%"/>
   <img src="screenshots/static_dashboard/xgb_feature_importance.jpg" alt="XGBoost Feature Importance" width="45%"/>
 </p>
--
+-## 📊 Project Visuals
+
+### 🖼 Streamlit Dashboard
+<img src="screenshots/streamlit_dashboard/home_host_page.jpg" width="400">
+<img src="screenshots/streamlit_dashboard/churn_distribution.jpg" width="400">
+<img src="screenshots/streamlit_dashboard/feature_importance.jpg" width="400">
+<img src="screenshots/streamlit_dashboard/monthly_charges_comparison.jpg" width="400">
+<img src="screenshots/streamlit_dashboard/tenure_comparison.jpg" width="400">
+
+---
+
+### 🖥 Static Dashboard
+<img src="screenshots/static_dashboard/churn_distribution.jpg" width="400">
+<img src="screenshots/static_dashboard/monthlycharges_vs_churn.jpg" width="400">
+<img src="screenshots/static_dashboard/tenure_vs_churn.jpg" width="400">
+<img src="screenshots/static_dashboard/xgb_feature_importance.jpg" width="400">
+
+---
+
+### 🔌 API Predictions
+<img src="screenshots/api_predictions/postman_prediction_0.jpg" width="400">
+<img src="screenshots/api_predictions/postman_prediction_1.jpg" width="400">
 
 📚 Documentation
 
