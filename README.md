@@ -217,19 +217,43 @@ def test_health_endpoint():
 
 
 ---
+## 📸 Project Screenshots
 
-📸 Screenshots
+### 🚀 Streamlit Dashboard
+<p align="center">
+  <img src="screenshots/streamlit_dashboard/home_host_page.jpg" alt="Home Page" width="45%"/>
+  <img src="screenshots/streamlit_dashboard/churn_distribution.jpg" alt="Churn Distribution" width="45%"/>
+</p>
 
-Streamlit dashboard (Home, Churn distribution, Feature importance)
+<p align="center">
+  <img src="screenshots/streamlit_dashboard/feature_importance.jpg" alt="Feature Importance" width="45%"/>
+  <img src="screenshots/streamlit_dashboard/monthly_charges_comparison.jpg" alt="Monthly Charges Comparison" width="45%"/>
+</p>
 
-Static analytics charts
+<p align="center">
+  <img src="screenshots/streamlit_dashboard/tenure_comparison.jpg" alt="Tenure Comparison" width="45%"/>
+</p>
 
-API predictions (Postman, logs)
+---
 
-Pytest run screenshot
+### ⚡ API Predictions
+<p align="center">
+  <img src="screenshots/api_predictions/postman_prediction_0.jpg" alt="Postman API Prediction 1" width="45%"/>
+  <img src="screenshots/api_predictions/postman_prediction_1.jpg" alt="Postman API Prediction 2" width="45%"/>
+</p>
 
+---
 
-(All under /screenshots/)
+### 📊 Static Dashboard
+<p align="center">
+  <img src="screenshots/static_dashboard/churn_distribution.jpg" alt="Static Churn Distribution" width="45%"/>
+  <img src="screenshots/static_dashboard/monthlycharges_vs_churn.jpg" alt="Monthly Charges vs Churn" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/static_dashboard/tenure_vs_churn.jpg" alt="Tenure vs Churn" width="45%"/>
+  <img src="screenshots/static_dashboard/xgb_feature_importance.jpg" alt="XGBoost Feature Importance" width="45%"/>
+</p>
 
 
 ---
