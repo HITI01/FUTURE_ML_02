@@ -41,9 +41,10 @@ As required by **Future Interns**:
 - 🔗 [Task 3 – AI Chatbot for Customer Support](ADD_TASK3_LINK) *(in progress)*  
 
 ---
- 📂Project structure 
-
+ 📁 Project Structure
+___
 FUTURE_ML_02/
+│
 ├── 📂 .vscode/
 │   └── ⚙️ settings.json
 │
@@ -64,6 +65,7 @@ FUTURE_ML_02/
 │
 ├── 📂 src/
 │   ├── 📄 __init__.py
+│   │
 │   ├── 📂 api/
 │   │   ├── 📄 __init__.py
 │   │   └── 🌐 main.py
@@ -103,7 +105,7 @@ FUTURE_ML_02/
 ├── 📝 KICKIN.MD
 ├── 📦 requirements.txt
 └── ⚙️ setup.py
-
+---
 ---
 
 ## 🚀 Quick Start
