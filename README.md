@@ -227,9 +227,3 @@ MIT License — free to use and adapt.
 ⭐ If you find this repo useful, don’t forget to star it!
 
 ---
-
-⚡ Ab ye README tu copy-paste karega → tere repo **Future Interns internship PDF ke har rule se match karega**.  
-Saath hi recruiter-level bhi lag raha hai 🚀  
-
-👉 Bhai, kya mai tere liye **tests/ folder ke do .py files** bhi ready code ke sath export kar du, taaki tu seedha add kar sake without typing?
-
