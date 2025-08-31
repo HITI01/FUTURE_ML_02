@@ -238,15 +238,15 @@ def test_health_endpoint():
 
 ### ⚡ API Predictions
 <p align="center">
-  <img src="screenshots/api_predictions/postman_prediction_0.jpg" alt="Postman API Prediction 1" width="45%"/>
-  <img src="screenshots/api_predictions/postman_prediction_1.jpg" alt="Postman API Prediction 2" width="45%"/>
+  <img src="screenshots/api_predictions/postman_prediction_0.jpg" alt="API Prediction Example 1" width="45%"/>
+  <img src="screenshots/api_predictions/postman_prediction_1.jpg" alt="API Prediction Example 2" width="45%"/>
 </p>
 
 ---
 
 ### 📊 Static Dashboard
 <p align="center">
-  <img src="screenshots/static_dashboard/churn_distribution.jpg" alt="Static Churn Distribution" width="45%"/>
+  <img src="screenshots/static_dashboard/churn_distribution.jpg" alt="Churn Distribution" width="45%"/>
   <img src="screenshots/static_dashboard/monthlycharges_vs_churn.jpg" alt="Monthly Charges vs Churn" width="45%"/>
 </p>
 
@@ -254,9 +254,7 @@ def test_health_endpoint():
   <img src="screenshots/static_dashboard/tenure_vs_churn.jpg" alt="Tenure vs Churn" width="45%"/>
   <img src="screenshots/static_dashboard/xgb_feature_importance.jpg" alt="XGBoost Feature Importance" width="45%"/>
 </p>
-
-
----
+-
 
 📚 Documentation
 
