@@ -36,8 +36,8 @@
 
 ## 🌐 LinkedIn Showcase
 As required by **Future Interns**:  
-- 🔗 [Task 1 – Sales Forecasting Dashboard](ADD_TASK1_LINK)  
-- 🔗 [Task 2 – Customer Churn Prediction](ADD_TASK2_LINK)  
+- 🔗 [Task 1 – Sales Forecasting Dashboard](https://github.com/karan-sharma-aiml/FUTURE_ML_01.git)  
+- 🔗 [Task 2 – Customer Churn Prediction](https://github.com/karan-sharma-aiml/FUTURE_ML_02.git)  
 - 🔗 [Task 3 – AI Chatbot for Customer Support](ADD_TASK3_LINK) *(in progress)*  
 
 ________
