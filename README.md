@@ -40,10 +40,10 @@ As required by **Future Interns**:
 - 🔗 [Task 2 – Customer Churn Prediction](ADD_TASK2_LINK)  
 - 🔗 [Task 3 – AI Chatbot for Customer Support](ADD_TASK3_LINK) *(in progress)*  
 
----
- 📁 Project Structure
-___
-FUTURE_ML_02/
+'''---
+Project structure 📁
+
+'''FUTURE_ML_02/
 │
 ├── 📂 .vscode/
 │   └── ⚙️ settings.json
@@ -105,7 +105,7 @@ FUTURE_ML_02/
 ├── 📝 KICKIN.MD
 ├── 📦 requirements.txt
 └── ⚙️ setup.py
----
+'''
 ---
 
 ## 🚀 Quick Start
