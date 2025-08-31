@@ -219,29 +219,27 @@ def test_health_endpoint():
 ---
 ## 📸 Project Screenshots
 
-## 📸 Screenshots
-
 ### 🔹 API Predictions
-![API Live Logs](./screenshots/api_predictions/api_live_logs.jpg.png)  
-![Postman Prediction 0](./screenshots/api_predictions/postman_prediction_0.jpg)  
-![Postman Prediction 1](./screenshots/api_predictions/postman_prediction_1.jpg)  
+![API Live Logs](https://raw.githubusercontent.com/karan-sharma-aiml/FUTURE_ML_02/main/screenshots/api_predictions/api_live_logs.jpg.png)  
+![Postman Prediction 0](https://raw.githubusercontent.com/karan-sharma-aiml/FUTURE_ML_02/main/screenshots/api_predictions/postman_prediction_0.jpg)  
+![Postman Prediction 1](https://raw.githubusercontent.com/karan-sharma-aiml/FUTURE_ML_02/main/screenshots/api_predictions/postman_prediction_1.jpg)  
 
 ---
 
 ### 🔹 Streamlit Dashboard
-![Churn Distribution](./screenshots/streamlit_dashboard/churn_distribution.jpg)  
-![Feature Importance](./screenshots/streamlit_dashboard/feature_importance.jpg)  
-![Home Host Page](./screenshots/streamlit_dashboard/home_host_page.jpg)  
-![Monthly Charges Comparison](./screenshots/streamlit_dashboard/monthly_charges_comparison.jpg)  
-![Tenure Comparison](./screenshots/streamlit_dashboard/tenure_comparison.jpg)  
+![Churn Distribution](https://raw.githubusercontent.com/karan-sharma-aiml/FUTURE_ML_02/main/screenshots/streamlit_dashboard/churn_distribution.jpg)  
+![Feature Importance](https://raw.githubusercontent.com/karan-sharma-aiml/FUTURE_ML_02/main/screenshots/streamlit_dashboard/feature_importance.jpg)  
+![Home Host Page](https://raw.githubusercontent.com/karan-sharma-aiml/FUTURE_ML_02/main/screenshots/streamlit_dashboard/home_host_page.jpg)  
+![Monthly Charges Comparison](https://raw.githubusercontent.com/karan-sharma-aiml/FUTURE_ML_02/main/screenshots/streamlit_dashboard/monthly_charges_comparison.jpg)  
+![Tenure Comparison](https://raw.githubusercontent.com/karan-sharma-aiml/FUTURE_ML_02/main/screenshots/streamlit_dashboard/tenure_comparison.jpg)  
 
 ---
 
 ### 🔹 Static Dashboard
-![Churn Distribution](./screenshots/static_dashboard/churn_distribution.jpg)  
-![Monthly Charges vs Churn](./screenshots/static_dashboard/monthlycharges_vs_churn.jpg)  
-![Tenure vs Churn](./screenshots/static_dashboard/tenure_vs_churn.jpg)  
-![XGB Feature Importance](./screenshots/static_dashboard/xgb_feature_importance.jpg)
+![Churn Distribution](https://raw.githubusercontent.com/karan-sharma-aiml/FUTURE_ML_02/main/screenshots/static_dashboard/churn_distribution.jpg)  
+![Monthly Charges vs Churn](https://raw.githubusercontent.com/karan-sharma-aiml/FUTURE_ML_02/main/screenshots/static_dashboard/monthlycharges_vs_churn.jpg)  
+![Tenure vs Churn](https://raw.githubusercontent.com/karan-sharma-aiml/FUTURE_ML_02/main/screenshots/static_dashboard/tenure_vs_churn.jpg)  
+![XGB Feature Importance](https://raw.githubusercontent.com/karan-sharma-aiml/FUTURE_ML_02/main/screenshots/static_dashboard/xgb_feature_importance.jpg)
 
 📚 Documentation
 
