@@ -220,22 +220,25 @@ def test_health_endpoint():
 ## 📸 Project Screenshots
 
 ## 🔹 API Predictions
-![API Logs](screenshots/api_predictions/api_live_logs.png)
-![Postman Prediction 0](screenshots/api_predictions/postman_prediction_0.jpg)
-![Postman Prediction 1](screenshots/api_predictions/postman_prediction_1.jpg)
+# Project Screenshots  
 
-## 🔹 Static Dashboard
-![Churn Distribution](screenshots/static_dashboard/churn_distribution.jpg)
-![Monthly Charges vs Churn](screenshots/static_dashboard/monthlycharges_vs_churn.jpg)
-![Tenure vs Churn](screenshots/static_dashboard/tenure_vs_churn.jpg)
-![Feature Importance](screenshots/static_dashboard/xgb_feature_importance.jpg)
+## 📌 API Predictions
+![API Live Logs](screenshots/api_predictions/api_live_logs.jpg.png)  
+![Postman Prediction 0](screenshots/api_predictions/postman_prediction_0.jpg)  
+![Postman Prediction 1](screenshots/api_predictions/postman_prediction_1.jpg)  
 
-## 🔹 Streamlit Dashboard
-![Churn Distribution](screenshots/streamlit_dashboard/churn_distribution.jpg)
-![Feature Importance](screenshots/streamlit_dashboard/feature_importance.jpg)
-![Home Host Page](screenshots/streamlit_dashboard/home_host_page.jpg)
-![Monthly Charges Comparison](screenshots/streamlit_dashboard/monthly_charges_comparison.jpg)
-![Tenure Comparison](screenshots/streamlit_dashboard/tenure_comparison.jpg)
+## 📌 Static Dashboard
+![Churn Distribution](screenshots/static_dashboard/churn_distribution.jpg)  
+![Monthly Charges vs Churn](screenshots/static_dashboard/monthlycharges_vs_churn.jpg)  
+![Tenure vs Churn](screenshots/static_dashboard/tenure_vs_churn.jpg)  
+![XGB Feature Importance](screenshots/static_dashboard/xgb_feature_importance.jpg)  
+
+## 📌 Streamlit Dashboard
+![Churn Distribution](screenshots/streamlit_dashboard/churn_distribution.jpg)  
+![Feature Importance](screenshots/streamlit_dashboard/feature_importance.jpg)  
+![Home Page](screenshots/streamlit_dashboard/home_host_page.jpg)  
+![Monthly Charges Comparison](screenshots/streamlit_dashboard/monthly_charges_comparison.jpg)  
+![Tenure Comparison](screenshots/streamlit_dashboard/tenure_comparison.jpg)  
 
 
 📚 Documentation
