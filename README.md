@@ -217,11 +217,20 @@ def test_health_endpoint():
 
 
 ---
-## 📸 Project Screenshots
+## Screenshots & Visual Results
 
-![api_live_logs](screenshots/api_predictions/api_live_logs.jpg.png)
-![postman_prediction_0](screenshots/api_predictions/postman_prediction_0.jpg)
-![postman_prediction_1](screenshots/api_predictions/postman_prediction_1.jpg)
+All result images and visual outputs for this project are available inside the screenshots folder.
+
+- *API Predictions:*  
+  All API prediction output images are located in screenshots/api_predictions/
+
+- *Static Dashboard:*  
+  Visualizations and dashboard images are available in screenshots/static_dashboard/
+
+- *Streamlit Dashboard:*  
+  Interactive dashboard screenshots live in screenshots/streamlit_dashboard/
+
+> Please open the respective folders directly to view the results and analytical outputs.
 
 📚 Documentation
 
