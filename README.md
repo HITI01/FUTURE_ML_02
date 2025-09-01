@@ -219,26 +219,10 @@ def test_health_endpoint():
 ---
 ## 📸 Project Screenshots
 
-## 🔹 API Predictions
-# Project Screenshots  
-
 ## 📌 API Predictions
-![API Live Logs](screenshots/api_predictions/api_live_logs.jpg.png)  
-![Postman Prediction 0](screenshots/api_predictions/postman_prediction_0.jpg)  
-![Postman Prediction 1](screenshots/api_predictions/postman_prediction_1.jpg)  
-
-## 📌 Static Dashboard
-![Churn Distribution](screenshots/static_dashboard/churn_distribution.jpg)  
-![Monthly Charges vs Churn](screenshots/static_dashboard/monthlycharges_vs_churn.jpg)  
-![Tenure vs Churn](screenshots/static_dashboard/tenure_vs_churn.jpg)  
-![XGB Feature Importance](screenshots/static_dashboard/xgb_feature_importance.jpg)  
-
-## 📌 Streamlit Dashboard
-![Churn Distribution](screenshots/streamlit_dashboard/churn_distribution.jpg)  
-![Feature Importance](screenshots/streamlit_dashboard/feature_importance.jpg)  
-![Home Page](screenshots/streamlit_dashboard/home_host_page.jpg)  
-![Monthly Charges Comparison](screenshots/streamlit_dashboard/monthly_charges_comparison.jpg)  
-![Tenure Comparison](screenshots/streamlit_dashboard/tenure_comparison.jpg)  
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a0c93c1b-ff1e-4774-b186-948907c93a5f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e1c49904-75b0-4fc5-acd2-7bca65794c7d" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a1f58612-24c4-49e8-80d5-c7b64cbb3cbe" />
 
 
 📚 Documentation
