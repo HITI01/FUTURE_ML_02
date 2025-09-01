@@ -220,10 +220,7 @@ def test_health_endpoint():
 ## 📸 Project Screenshots
 
 ## 📌 API Predictions
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a0c93c1b-ff1e-4774-b186-948907c93a5f" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e1c49904-75b0-4fc5-acd2-7bca65794c7d" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a1f58612-24c4-49e8-80d5-c7b64cbb3cbe" />
-
+screenshots/api_predictions/api_live_logs.jpg.png
 
 📚 Documentation
 
